@@ -1,0 +1,20 @@
+[
+  ".txt",
+  ".md",
+
+  ".js",
+  ".jsx",
+  ".ts",
+  ".tsx",
+
+  ".json",
+  ".yaml",
+
+  ".csv",
+  ".tsv",
+
+  ".log",
+
+  ".sh",
+  ".fish"
+]
